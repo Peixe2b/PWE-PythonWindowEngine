@@ -1,0 +1,1 @@
+from PWE.src import get_version
