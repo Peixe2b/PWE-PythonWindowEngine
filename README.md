@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="172" height="151" src="https://private-user-images.githubusercontent.com/109036036/405478896-478e7dd8-4b29-4e9b-94aa-4a805358a03f.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzc1MjIxNjMsIm5iZiI6MTczNzUyMTg2MywicGF0aCI6Ii8xMDkwMzYwMzYvNDA1NDc4ODk2LTQ3OGU3ZGQ4LTRiMjktNGU5Yi05NGFhLTRhODA1MzU4YTAzZi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMTIyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDEyMlQwNDU3NDNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yYjM5ZGRmNGJkZGQ3ZjZiYjMzM2E1OWNkMTU5YjlmYWVmODQ3NzUzYTc3MDFjYTViYjIxZmI3NjdlNmIwZjgwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.yROhL7TpggpwzHw7C1YJ5zPIA_9CY3PePfNXHoZOSmk">
+  <img width="172" height="151" src="https://private-user-images.githubusercontent.com/109036036/405786567-6d311385-93b0-4acc-90dd-360c8155acb9.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzc1ODAxNjQsIm5iZiI6MTczNzU3OTg2NCwicGF0aCI6Ii8xMDkwMzYwMzYvNDA1Nzg2NTY3LTZkMzExMzg1LTkzYjAtNGFjYy05MGRkLTM2MGM4MTU1YWNiOS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMTIyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDEyMlQyMTA0MjRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05M2YyN2QxNWE5NTQ2MDlhZGIwNTcwMzIzNjc2YzA5OTJlYmU2N2VlNGFmZmJmNmMyODEwMzZhZTJkNzY3NTcyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.9OWEhIu18zhkDIBXl0S43jpF1nMaVqvxhuFO-3NrTh0">
 
   <h1>PWE</h1>
   A simple but efficient game framework
@@ -20,7 +20,7 @@
 <hr>
 
 ### TODO
-  - [x] Window Creation
+  - [ ] Window Creation
   - [ ] Update and Draw
   - [ ] Window management
   - [ ] Map Editor
@@ -30,12 +30,12 @@
   - [x] Error handling
   - [ ] Game state manager  
   - [ ] Component creation
-  - [ ] GameTimer
+  - [ ] GameTimer and Clock
   - [ ] IO
   - [ ] Animator system
   - [ ] Event manager
   - [ ] Keyboard and mouse input
-  - [x] Logger
+  - [ ] Logger
   - [ ] Connections with other APIs
     - [ ] OpenGL
     - [ ] CUDA
