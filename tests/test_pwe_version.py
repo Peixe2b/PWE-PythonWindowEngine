@@ -1,12 +1,12 @@
 from PWE import get_version
 
 class TestPWEVersion:
-    PWE_VERSION = (1, 0, 0)
+    PWE_VERSION = (1, 0, 1)
 
     def test_get_version_without_pwe_function(self):
         major = 1
         minor = 0
-        patch = 0
+        patch = 1
         pwe_version = (major, minor, patch)
 
         assert pwe_version == self.PWE_VERSION
