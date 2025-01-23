@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="172" height="151" src="https://private-user-images.githubusercontent.com/109036036/405786567-6d311385-93b0-4acc-90dd-360c8155acb9.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzc1ODAxNjQsIm5iZiI6MTczNzU3OTg2NCwicGF0aCI6Ii8xMDkwMzYwMzYvNDA1Nzg2NTY3LTZkMzExMzg1LTkzYjAtNGFjYy05MGRkLTM2MGM4MTU1YWNiOS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMTIyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDEyMlQyMTA0MjRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05M2YyN2QxNWE5NTQ2MDlhZGIwNTcwMzIzNjc2YzA5OTJlYmU2N2VlNGFmZmJmNmMyODEwMzZhZTJkNzY3NTcyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.9OWEhIu18zhkDIBXl0S43jpF1nMaVqvxhuFO-3NrTh0">
+  <img width="172" height="151" src="https://github.com/Peixe2b/PWE-PythonWindowEngine/blob/master/assets/bigIcon.png?raw=true">
 
   <h1>PWE</h1>
   A simple but efficient game framework
