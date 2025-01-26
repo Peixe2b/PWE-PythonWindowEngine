@@ -3,7 +3,7 @@ requires = ["python >= 3.9"]
 
 [project]
 name = "PWE"
-version = "1.0.1"
+version = "1.0.2"
 description = "PWE is a game framework for create 2d games"
 dependencies = [
 ]

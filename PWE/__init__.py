@@ -1,1 +1,2 @@
-from PWE.src import get_version
+from .src import *
+from .cmd.wrapper import SDL_DLL # define SDL wrapper
